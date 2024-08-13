@@ -1,1 +1,1 @@
-# Codecademy-Projects
+# Coding Projects
